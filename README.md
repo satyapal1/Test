@@ -1,2 +1,2 @@
 # Test
-Test repository for study
+Test repository for git command
